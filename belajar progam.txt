@@ -1,0 +1,5 @@
+pelajaran awal dasar
+-javascript
+-python
+-code dalam pemrograman
+-php dasar
