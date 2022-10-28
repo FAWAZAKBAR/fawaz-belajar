@@ -1,5 +1,7 @@
 pelajaran awal dasar
 -javascript
+  -struktur dasar
+  -dasar data
 -python
 -code dalam pemrograman
 -php dasar
