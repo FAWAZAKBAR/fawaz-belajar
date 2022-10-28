@@ -1,9 +1,9 @@
 pelajaran awal dasar
 -javascript
   -struktur dasar
-  - react
+ - react
   - view
-  -dasar data
 -python
+  -lavarel
 -code dalam pemrograman
 -php dasar
